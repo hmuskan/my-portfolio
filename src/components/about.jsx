@@ -13,10 +13,10 @@ export default class About extends Component {
               </div>
             </div>{/* col-sm-4 */}
             <div className="col-sm-8">
-              <p className="margin-b-50">A quick learner with an insatiable appetite for all
-things tech. Experienced with Android
-Development, and stepping into new fields, one line
-of code at a time.</p>
+              <p className="margin-b-50">I am a pre-final year CS undergrad, who has a penchant for Mobile Application Development.
+                                         I am a quick learner with an insatiable appetite for all things tech, with an even stronger desire to share every bit
+                                         of what I know, with people who might benefit from it.
+                                         An intermediate level Android Developer, stepping into new fields, one line of code at a time.</p>
 
             </div>{/* col-sm-8 */}
           </div>{/* row */}
