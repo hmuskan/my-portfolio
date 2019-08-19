@@ -53,15 +53,9 @@ operations from a given API, using Volley.</li>
                <h4><b>Teaching Assistant (Computer Science)</b></h4>
                <h5 className="font-yellow"><b>Service4Startup</b></h5>
                <h6 className="margin-t-10">OCTOBER 2018 - FEBRUARY 2019</h6>
-               <p className="font-semi-white margin-tb-30">Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sodales.
-                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus pellentes que velit,
-                 quis consequat nulla effi citur at. Maecenas sed massa tristique.Duis non volutpat arcu,
-                 eu mollis tellus. Sed finibus aliquam neque sit amet sodales. </p>
-               <ul className="list margin-b-30">
-               <li>Creating video content for subjects related to Computer Science.</li>
-                <li>Successfully created content for Discrete Maths and Object Oriented Programming.</li>
-
-               </ul>
+               <p className="font-semi-white margin-tb-30">This internship was about creating video content for subjects related to Computer Science.
+               20 short tutorial videos were created by me, on the topics: Discrete Mathematics and Object Oriented Programming.</p>
+               
              </div>
            </div>{/* col-sm-8 */}
          </div>{/* row */}

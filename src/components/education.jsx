@@ -41,7 +41,8 @@ export default class Education extends Component {
      <footer>
         <p className="copyright">
           {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-          Base Template Design by <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer" >Colorlib</a>
+          
+          Template inspiration from: <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer" >Colorlib</a>
           {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
         </p>
       </footer>

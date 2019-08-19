@@ -14,10 +14,12 @@ function App() {
   <Header></Header>
   <Intro></Intro>
   <About></About>
-  <Quote></Quote>
+<Quote></Quote>
   <TechnicalSkills></TechnicalSkills>
   <Experience></Experience>
+
   <Education></Education>
+
   </div>
   );
 }
