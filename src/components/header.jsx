@@ -6,7 +6,7 @@ export default class Header extends Component{
 
        <header>
          <div className="container">
-           <a className="downlad-btn" href="https://drive.google.com/open?id=1RZfVe6jyN2Gr_LK1Fh4BC-F5YE3zeI90">View Resume</a>
+           <a className="downlad-btn" href="https://drive.google.com/file/d/1rVSewzIq6l75BehIOa5TlK5z2KGTZhrw/view?usp=sharing">View Resume</a>
          </div>{/* container */}
        </header>
      );

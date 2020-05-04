@@ -10,7 +10,7 @@ export default class Intro extends Component {
               <div className="col-md-1 col-lg-2" />
               <div className="col-md-10 col-lg-8">
                 <div className="intro">
-                  <div className="profile-img"><img src="images/profile-1-250x250.jpg" alt="" /></div>
+               <div className="profile-img"><img src="images/profile-1-250x250.JPG" alt="" /></div>
                   <h2><b>Muskan Hussain</b></h2>
                   <h4 className="font-yellow">Mobile and Web Development Enthusiast</h4>
                   <ul className="information margin-tb-30">
@@ -19,7 +19,7 @@ export default class Intro extends Component {
                   </ul>
                   <ul className="social-icons">
                     <li><a href="https://www.linkedin.com/in/muskanhussain-msit"><i className="ion-social-linkedin" /></a></li>
-    
+
                     <li><a href="https://twitter.com/muskan_hussain"><i className="ion-social-twitter" /></a></li>
                     <li><a href="https://github.com/hmuskan"><i className="ion-social-github" /></a></li>
                   </ul>
